@@ -1,0 +1,9 @@
+jupyterlab
+numpy
+seaborn
+pandas
+matplotlib
+scikit-learn
+notebook
+pandas-profiling
+ipywidgets
